@@ -1,4 +1,4 @@
-package dev.lisuk.strength.domain;
+package dev.lisuk.strength.session.domain;
 
 import java.util.OptionalInt;
 
